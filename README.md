@@ -8,7 +8,7 @@ Welcome to the **Ford Website Clone** — a fun, clean, and beginner-friendly pr
 🚫 Not connected to Ford Motor Company
 
 ---
-##  Screenshots
+## 📸 Screenshots
 <img width="100%" alt="Screenshot 2025-06-01 143106" src="https://github.com/user-attachments/assets/8741337c-1e59-4fe0-b031-2e8c25b25205" />
 
 
