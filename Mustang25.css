@@ -1,0 +1,2948 @@
+.header{
+    width: 1930px;
+    height: 50px;
+    background: transparent;
+    margin: -8px 0px 0px -10px;
+    transition: all ease 0.5s;
+}
+.header:hover{
+  background: white;
+}
+
+.background {
+  width: 1922px;
+  height: 1100px;
+  background: url(img/Video2025/Mustang25.tif);
+  background-size: cover;
+  background-position: center;
+  margin: 0px 0px 0px -10px;
+}
+
+ /* Dropdown Button */
+ .dropbtn {
+    background-color: transparent;
+    color: #979797;
+    font-weight:600 ;
+    padding: 13px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 280px;
+    
+  }
+ 
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn:hover{
+    color: #2980B9;
+    font-weight:600 ;
+    border-bottom: 1px solid #2980B9;
+    
+   
+  }
+
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    
+
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 1880px;
+    min-height: 650px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    margin: -5px 0px 0px 30px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+  
+  
+
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background: none;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;} 
+
+
+
+  .dropbtn1 {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 0px;
+  }
+
+  .dropbtn1 .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    
+ 
+  }
+  .dropbtn1 {
+    background-color: transparent;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn1:hover{
+    color: #2980B9;
+  }
+  
+  
+  .dropbtn1:focus {
+    background-color: transparent;
+    color:#2980B9;
+    border-bottom: 1px solid #2980B9;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown1 {
+    position: relative;
+    display: inline-block;
+   
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content1 {
+    display: none;
+    position: absolute;
+    background-color: transparent;
+    min-width: 0px;
+    min-height: 0px;
+    z-index: 1;
+    margin: 0px 0px 0px 50px;
+
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content1 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content1 a:hover {background: none;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;} 
+
+
+
+  
+  .dropbtn1 .fa-angle-right{
+    margin: 0px 0px 0px 140px;
+  }
+  .SUVCar{
+    margin: 60px 0px 0px 220px;
+
+  }
+  .SUVCar1{
+    margin: 60px 0px 0px 220px;
+   
+  }
+  .TitleSuvCar a {
+    font-family: sans-serif;
+    font-size: 25px;
+    color:#2980B9;
+   
+}
+ .TitleSuvCar a .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    font-size: 16px;
+ }
+.Capable{
+    margin: 0px 0px 0px 380px;
+}
+ .convenientAndversatile{
+    padding: 30px 300px;
+    background: #c4c4c438;
+    width: 250px;
+    margin: -50px 0px 0px 0px;
+ }
+ .convenientAndversatile h4{
+    margin: -10px 0px 0px -70px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+ }
+ .highlight {
+    margin: 0px 0px 0px -20px;
+ }
+ .highlight a{
+    padding: 20px 0px 0px 0px;
+    display: inline-block;
+    width: 500px;
+    color: #2980B9;
+    font-size: 17px;
+    font-weight: 700;
+    font-family: sans-serif;
+ }
+
+ .highlight a .fa-angle-right{
+   margin: -10px 0px 0px 10px;
+   font-size: 15px;
+ }
+
+ .MustangCar{
+    margin: 10px 0px 0px 0px;
+ }
+
+ .imgMustangCar img{
+    width: 200px;
+ }
+ .titleMustangeCar{
+  margin: -5px 0px 0px 60px;
+ }
+ .titleMustangeCar h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+ }
+
+ .titleMustangeCar h4 .fa-registered{
+
+    font-size: 13px;
+ }
+ .priceMustangcar{
+  margin: -15px 0px 0px 45px;
+ }
+ .priceMustangcar h4{
+  font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+ }
+
+
+ .Escape{
+  margin: -167px 0px 0px 220px;
+}
+
+.imgEscape img{
+  width: 200px;
+}
+.titleEscape{
+margin: -5px 0px 0px 60px;
+}
+.titleEscape h4{
+font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+.titleEscape h4 .fa-registered{
+
+  font-size: 13px;
+}
+.priceEscape{
+margin: -15px 0px 0px 45px;
+}
+.priceEscape h4{
+font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+
+.Bronco{
+  margin: -167px 0px 0px 440px;
+}
+
+.imgBronco img{
+  width: 200px;
+}
+.titleBronco{
+margin: -5px 0px 0px 45px;
+}
+.titleBronco h4{
+font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+.titleBronco span .fa-registered{
+
+  font-size: 5px;
+}
+.priceBronco{
+margin: -15px 0px 0px 45px;
+}
+.priceBronco h4{
+font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+
+.Bronco1{
+  margin: -167px 0px 0px 660px;
+}
+.FordGTMk{
+  margin: -150px 0px 0px 660px;
+}
+.imgBronco1 img{
+  width: 200px;
+}
+.titleBronco1{
+margin: -5px 0px 0px 55px;
+}
+.titleBronco1 h4{
+font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+.titleBronco1 span .fa-registered{
+
+  font-size: 5px;
+}
+
+.titleBronco11{
+  margin: -5px 0px 0px 65px;
+  }
+
+.titleBronco11 h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+
+  .titleBronco11 span .fa-registered{
+
+    font-size: 5px;
+  }
+  
+.priceBronco1{
+margin: -15px 0px 0px 45px;
+}
+.priceBronco1 h4{
+font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+.bar2{
+  margin: 60px 0px 0px 0px;
+}
+
+
+
+.dropbtn2 {
+  background-color: transparent;
+  color: #979797;
+  font-weight:600 ;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin: 5px 0px 0px 0px;
+}
+
+
+/* Dropdown button on hover & focus */
+.dropbtn2:hover{
+  color: #2980B9;
+  font-weight:600 ;
+   border-bottom: 1px solid #2980B9;
+
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 450px;
+  min-height: 760px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin: -5px 0px 0px -105px;
+  border-bottom-left-radius: 30px
+
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content2 a {
+  color: #061e2e;
+  padding: 50px 0px 0px 30px;
+  margin: 0px 0px -20px 0px;
+  text-decoration: none;
+  display: block;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content2 a:hover {background: none;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;} 
+
+
+
+
+
+.dropbtn3 {
+  background-color: white;
+  color: #061e2e;
+  padding: 16px;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  margin: -30px 0px -50px -205px;
+  font-family: sans-serif;
+}
+
+.dropbtn3 .fa-angle-right{
+  padding: 10px 0px 0px 220px;
+  font-size: 16px;
+  
+
+}
+.dropbtn3 {
+  background-color: transparent;
+  
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn3:hover{
+  background-color: transparent;
+  color:#2980B9;
+}
+
+.dropbtn3:focus {
+
+  color:#2980B9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown3 {
+  position: relative;
+  display: inline-block;
+
+ 
+}
+
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content3 {
+  display: none;
+  position: absolute;
+  background-color: white;
+  width: 1100px;
+  height: 760px;
+  z-index: 1;
+  margin: -255px 0px 0px 230px;
+  overflow: scroll
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content3 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content3 a:hover {background: none;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;} 
+
+
+
+.ShopByCategories{
+  padding: 50px 0px 0px 40px;
+}
+
+.TitleShopByCategories h4{
+  font-size: 12px;
+  color: #979797;
+  font-family: sans-serif;
+  display: inline-block;
+}
+.LinkShopByCategories{
+  margin: -40px 0px 0px 820px;
+}
+.LinkShopByCategories a{
+  color: #2980B9;
+  display: inline-block;
+  font-size: 12px;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.ExteriorV2{
+  margin: 10px 0px 0px 0px;
+}
+.imgExteriorV2 img{
+  width: 210px;
+  border-radius: 10px;
+}
+.TitleExteriorV2{
+  margin: -5px 0px 0px 0px;
+}
+.TitleExteriorV2 h4{
+  font-size: 13px;
+  color: #2c2c2c;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+.FordPerformance{
+  margin: -165px 0px 0px 225px;
+}
+.imgFordPerformance img{
+  width: 210px;
+  border-radius: 10px;
+}
+.TitleFordPerformance{
+  margin: -5px 0px 0px 0px;
+}
+.TitleFordPerformance h4{
+  font-size: 13px;
+  color: #2c2c2c;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+
+.Electronics{
+  margin: -165px 0px 0px 450px;
+}
+.imgElectronics img{
+  width: 210px;
+  border-radius: 10px;
+}
+.TitleElectronics{
+  margin: -5px 0px 0px 0px;
+}
+.TitleElectronics h4{
+  font-size: 13px;
+  color: #2c2c2c;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+
+.bedProducts{
+  margin: -165px 0px 0px 675px;
+}
+.imgbedProducts img{
+  width: 210px;
+  border-radius: 10px;
+}
+.TitlebedProducts{
+  margin: -5px 0px 0px 0px;
+}
+.TitlebedProducts h4{
+  font-size: 13px;
+  color: #2c2c2c;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+.form1{
+  margin: 30px 0px 0px 0px;
+}
+
+.buttonByPopular button{
+  margin: 0px 10px 0px 0px;
+  padding: 12px 20px;
+  background: transparent;
+  border: 1px solid black;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.buttonByPopular a{
+  margin: 0px 0px 0px -10px;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 15px;
+  display: inline-block;
+  font-family: sans-serif;
+  text-decoration: underline;
+  color: #464646;
+}
+
+.LastPart a{
+  font-size: 14px;
+}
+.form2{
+  margin: 0px 0px 0px 40px;
+
+}
+.Form1{
+  margin: 0px 0px 0px 40px;
+}
+
+
+.dropbtn11 {
+  background-color: white;
+  color: black;
+  padding: 16px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  margin: 5px 0px 0px 0px;
+}
+
+.dropbtn11 .fa-angle-right{
+  padding: 0px 0px 0px 100px;
+  
+
+}
+.dropbtn11 {
+  background-color: transparent;
+  
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn11:hover{
+  color: #2980B9;
+}
+.dropbtn11:focus {
+  background-color: transparent;
+  color:#2980B9;
+  border-bottom: 1px solid #2980B9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown11 {
+  position: relative;
+  display: inline-block;
+ 
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content11 {
+  display: none;
+  position: absolute;
+  background-color: transparent;
+  min-width: 0px;
+  min-height: 0px;
+  z-index: 1;
+  margin: 0px 0px 0px 50px;
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content11 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content11 a:hover {background: none;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;} 
+
+
+
+
+.dropbtn11 .fa-angle-right{
+  margin: 0px 0px 0px 115px;
+}
+
+.SUVCar11{
+  margin: 0px 0px 0px 220px;
+ 
+}
+.TitleSuvCar a {
+  font-family: sans-serif;
+  font-size: 25px;
+  color:#2980B9;
+ 
+}
+.TitleSuvCar a .fa-angle-right{
+  padding: 0px 0px 0px 100px;
+  font-size: 16px;
+}
+.Capable11{
+  margin: 0px 0px 0px 380px;
+}
+.convenientAndversatile11{
+  padding: 30px 300px;
+  background: #c4c4c438;
+  width: 250px;
+  margin: -111px 0px 0px 0px;
+}
+.convenientAndversatile11 h4{
+  margin: -10px 0px 0px -70px;
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+.highlight11 {
+  margin: 0px 0px 0px -20px;
+}
+.highlight11 a{
+  padding: 20px 0px 0px 0px;
+  display: inline-block;
+  width: 500px;
+  color: #2980B9;
+  font-size: 17px;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.highlight11 a .fa-angle-right{
+ margin: -10px 0px 0px 10px;
+ font-size: 12px;
+}
+
+.Maverick{
+  margin: 10px 0px 0px 0px;
+}
+
+.imgMaverick img{
+  width: 200px;
+}
+.titleMaverick{
+margin: -5px 0px 0px 60px;
+}
+.titleMaverick h4{
+font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+.titleMaverick h4 .fa-registered{
+
+  font-size: 13px;
+}
+.priceMaverick{
+margin: -15px 0px 0px 45px;
+}
+.priceMaverick h4{
+font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+
+.Ranger{
+margin: -165px 0px 0px 220px;
+}
+
+.imgRanger img{
+width: 200px;
+}
+.titleRanger{
+margin: -5px 0px 0px 60px;
+}
+.titleRanger h4{
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.titleRanger h4 .fa-registered{
+
+font-size: 13px;
+}
+.priceRanger{
+margin: -15px 0px 0px 45px;
+}
+.priceRanger h4{
+font-family: sans-serif;
+font-size: 12px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.F-150{
+margin: -167px 0px 0px 440px;
+}
+
+.imgF-150 img{
+width: 200px;
+}
+.titleF-150{
+margin: -5px 0px 0px 75px;
+}
+.titleF-150 h4{
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.titleF-150 span .fa-registered{
+
+font-size: 5px;
+}
+.priceF-150{
+margin: -15px 0px 0px 45px;
+}
+.priceF-150 h4{
+font-family: sans-serif;
+font-size: 12px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+
+.SuperDuty{
+margin: -167px 0px 0px 660px;
+}
+
+.imgSuperDuty img{
+width: 200px;
+}
+.titleSuperDuty{
+margin: -5px 0px 0px 55px;
+}
+.titleSuperDuty h4{
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.titleSuperDuty span .fa-registered{
+
+font-size: 5px;
+}
+
+
+.priceSuperDuty{
+margin: -15px 0px 0px 45px;
+}
+.priceSuperDuty h4{
+font-family: sans-serif;
+font-size: 12px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.bar2{
+margin: 60px 0px 0px 0px;
+}
+
+.titleTransit{
+margin: -5px 0px 0px 65px;
+}
+
+.titleFordMustangGT4{
+  margin: -5px 0px 0px 35px;
+  }
+
+
+  .titleFordMustangGT4 h4{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+    }
+.titleTransit h4{
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.titleTransit span .fa-registered{
+
+font-size: 5px;
+}
+
+.priceF-150Lighting{
+margin: -15px 0px 0px 60px;
+}
+.priceF-150Lighting h4{
+font-family: sans-serif;
+font-size: 12px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+
+
+.dropbtn12 {
+  background-color: white;
+  color: #2980B9;
+  padding: 16px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  margin: 5px 0px 0px 0px;
+}
+
+.dropbtn12 .fa-angle-right{
+  padding: 0px 0px 0px 100px;
+  
+
+}
+.dropbtn12 {
+  background-color: transparent;
+  
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn12:hover, .dropbtn12:focus {
+  background-color: transparent;
+  color:#2980B9;
+  border-bottom: 1px solid #2980B9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown12 {
+  position: relative;
+  display: inline-block;
+  
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content12 {
+  display: none;
+  position: absolute;
+  background-color: transparent;
+  min-width: 0px;
+  min-height: 0px;
+  z-index: 1;
+  margin: 0px 0px 0px 50px;
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content12 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content12 a:hover {background: none;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;} 
+
+
+.form3{
+  margin: 0px 0px 0px 40px;
+
+}
+
+.dropbtn12 .fa-angle-right{
+  margin: 0px 0px 0px 80px;
+}
+
+.SUVCar12{
+  margin: 0px 0px 0px 260px;
+  
+}
+.TitleSuvCar a {
+  font-family: sans-serif;
+  font-size: 25px;
+  color:#2980B9;
+  
+}
+.TitleSuvCar a .fa-angle-right{
+  padding: 0px 0px 0px 100px;
+  font-size: 16px;
+}
+.Capable12{
+  margin: 0px 0px 0px 380px;
+}
+.convenientAndversatile12{
+  border-radius: 20px;
+  padding: 30px 300px;
+  background: url(img/Global-Nav-Banner_Desktop_1.avif);
+  width: 250px;
+  height: 90px;
+  background-size: contain;
+  margin: -160px 0px 0px 0px;
+
+}
+.convenientAndversatile12 h4{
+  margin: -10px 0px 0px -70px;
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+.highlight12 {
+  margin: 20px 0px 0px 150px;
+  width: 150px;
+}
+.highlight12 button{
+  padding: 15px;
+  background: #2980B9;
+  color: white;
+  font-weight: 600;
+  font-size: 13px;
+  border: none;
+  border-radius: 50px;
+}
+
+
+.Maverick{
+  margin: 10px 0px 0px 0px;
+}
+
+.imgMaverick img{
+  width: 200px;
+}
+.titleMach-E{
+margin: -5px 0px 0px 40px;
+}
+.titleMach-E h4{
+font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+.titleMaverick h4 .fa-registered{
+
+  font-size: 13px;
+}
+.priceMaverick{
+margin: -15px 0px 0px 45px;
+}
+.priceMaverick h4{
+font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+}
+
+
+.Ranger{
+margin: -165px 0px 0px 220px;
+}
+
+.imgRanger img{
+width: 200px;
+}
+.titleRanger{
+margin: -5px 0px 0px 60px;
+}
+.titleRanger h4{
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.titleRanger h4 .fa-registered{
+
+font-size: 13px;
+}
+.priceRanger1{
+margin: -15px 0px 0px 55px;
+}
+.priceRanger1 h4{
+font-family: sans-serif;
+font-size: 12px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.F-150{
+margin: -167px 0px 0px 440px;
+}
+
+.imgF-150 img{
+width: 200px;
+}
+.titleF-1500{
+margin: -5px 0px 0px 55px;
+}
+.titleF-1500 h4{
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.titleF-150 span .fa-registered{
+
+font-size: 5px;
+}
+.priceF-150{
+margin: -15px 0px 0px 45px;
+}
+.priceF-150 h4{
+font-family: sans-serif;
+font-size: 12px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+
+.SuperDuty{
+margin: -167px 0px 0px 660px;
+}
+
+.imgSuperDuty img{
+width: 200px;
+}
+.titleSuperDuty{
+margin: -5px 0px 0px 55px;
+}
+.titleSuperDuty h4{
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.titleSuperDuty span .fa-registered{
+
+font-size: 5px;
+}
+
+
+.priceSuperDuty{
+margin: -15px 0px 0px 45px;
+}
+.priceSuperDuty h4{
+font-family: sans-serif;
+font-size: 12px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.bar2{
+margin: 60px 0px 0px 0px;
+}
+
+.bar3{
+  margin: 40px 0px 0px 0px;
+  }
+
+.titleTransit{
+  margin: -5px 0px 0px 65px;
+}
+.titleTransit h4{
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.titleTransit span .fa-registered{
+
+font-size: 5px;
+}
+
+.priceF-150Lighting{
+margin: -15px 0px 0px 60px;
+}
+.priceF-150Lighting h4{
+font-family: sans-serif;
+font-size: 12px;
+font-weight: 400;
+color: black;
+width: 400px;
+}
+
+.titleEscape1 {
+margin: 10px 0px 0px 35px;
+}
+.titleEscape1 h4{
+  font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+
+  
+.titleEscape1 span .fa-registered{
+
+  font-size: 5px;
+  }
+
+
+  .EscapePlug{
+    margin: -180px 0px 0px 440px;
+  }
+  
+  .imgBronco img{
+    width: 200px;
+  }
+  .titleTransit1{
+  margin: -5px 0px 0px 15px;
+  }
+  .titleTransit1 h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .titleTransit1 span .fa-registered{
+  
+    font-size: 5px;
+  }
+  .priceBronco{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceBronco h4{
+  font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  
+
+  .Form1{
+    margin: 0px 0px 0px 40px;
+    
+  }
+  
+  
+  .dropbtn111 {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 0px;
+    
+  }
+  
+  .dropbtn111 .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    
+  
+  }
+  .dropbtn111 {
+    background-color: transparent;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn111:hover{
+    color:#2980B9;
+  }
+  
+  .dropbtn111:focus {
+    background-color: transparent;
+    color:#2980B9;
+    border-bottom: 1px solid #2980B9;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown111 {
+    position: relative;
+    display: inline-block;
+    
+    
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content111 {
+    display: none;
+    position: absolute;
+    background-color: transparent;
+    min-width: 0px;
+    min-height: 0px;
+    z-index: 1;
+    margin: 0px 0px 0px 50px;
+    
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content111 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    
+
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content111 a:hover {background: none;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;} 
+  
+  
+  
+  
+  .dropbtn111 .fa-angle-right{
+    margin: 0px 0px 0px 30px;
+  }
+  
+  .SUVCar111{
+    margin: 0px 0px 0px 220px;
+    
+   
+  }
+  .TitleSuvCar a {
+    font-family: sans-serif;
+    font-size: 25px;
+    color:#2980B9;
+   
+  }
+  .TitleSuvCar a .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    font-size: 16px;
+  }
+  .Capable111{
+    margin: 0px 0px 0px 380px;
+  
+  }
+  .convenientAndversatile111{
+    padding: 30px 300px;
+    background: #c4c4c438;
+    width: 250px;
+    margin: -233px 0px 0px 0px;
+  }
+  .convenientAndversatile111 h4{
+    margin: -10px 0px 0px -80px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  .highlight111 {
+    margin: 0px 0px 0px -80px;
+  }
+  .highlight111 a{
+    padding: 20px 0px 0px 0px;
+    display: inline-block;
+    width: 500px;
+    color: #2980B9;
+    font-size: 17px;
+    font-weight: 700;
+    font-family: sans-serif;
+  }
+  
+  .highlight111 a .fa-angle-right{
+   margin: -10px 0px 0px 10px;
+   font-size: 12px;
+  }
+  
+  .Maverick{
+    margin: 10px 0px 0px 0px;
+  }
+  
+  .imgMaverick img{
+    width: 200px;
+   
+  }
+  .titleMaverick{
+  margin: -5px 0px 0px 60px;
+  }
+  .titleMaverick h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .titleMaverick h4 .fa-registered{
+  
+    font-size: 13px;
+  }
+  .priceMaverick{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceMaverick h4{
+  font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  
+  .Ranger{
+  margin: -165px 0px 0px 220px;
+  }
+  
+  .imgRanger img{
+  width: 200px;
+  }
+  .titleRanger{
+  margin: -5px 0px 0px 60px;
+  }
+  .titleRanger h4{
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .titleRanger h4 .fa-registered{
+  
+  font-size: 13px;
+  }
+  .priceRanger{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceRanger h4{
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .F-150{
+  margin: -167px 0px 0px 440px;
+  }
+  
+  .imgF-150 img{
+  width: 200px;
+  }
+  .titleF-1501{
+  margin: -5px 0px 0px 45px;
+  }
+  .titleF-1501 h4{
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .titleF-150 span .fa-registered{
+  
+  font-size: 5px;
+  }
+  .priceF-150{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceF-150 h4{
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  
+  .SuperDuty{
+  margin: -167px 0px 0px 660px;
+  }
+  
+  .imgSuperDuty img{
+  width: 200px;
+  }
+  .titleSuperDuty{
+  margin: -5px 0px 0px 55px;
+  }
+  .titleSuperDuty h4{
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .titleSuperDuty span .fa-registered{
+  
+  font-size: 5px;
+  }
+  
+  
+  .priceSuperDuty{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceSuperDuty h4{
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .bar2{
+  margin: 60px 0px 0px 0px;
+  }
+  
+  .titleTransit{
+  margin: -5px 0px 0px 65px;
+  }
+  .titleTransit h4{
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .titleTransit span .fa-registered{
+  
+  font-size: 5px;
+  }
+  
+  .priceF-150Lighting{
+  margin: -15px 0px 0px 60px;
+  }
+  .priceF-150Lighting h4{
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .GT3{
+    margin: -150px 0px 0px 220px;
+  }
+  
+  .imgEscape img{
+    width: 200px;
+  }
+  .titleEscape{
+  margin: -5px 0px 0px 60px;
+  }
+  .titleEscape h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .titleEscape h4 .fa-registered{
+  
+    font-size: 13px;
+  }
+  .priceEscape{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceEscape h4{
+  font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .FordMustangGT4{
+    margin: -150px 0px 0px 440px;
+  }
+  
+  .imgBronco img{
+    width: 200px;
+  }
+  .titleBronco{
+  margin: -5px 0px 0px 45px;
+  }
+  .titleBronco h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .titleBronco span .fa-registered{
+  
+    font-size: 5px;
+  }
+  .priceBronco{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceBronco h4{
+  font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .dropbtn12 {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 0px;
+  }
+  
+  .dropbtn12 .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    
+  
+  }
+  .dropbtn12 {
+    background-color: transparent;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn12:hover{
+    color: #2980B9;
+  }
+  
+  
+  .dropbtn12:focus {
+    background-color: transparent;
+    color:#2980B9;
+    border-bottom: 1px solid #2980B9;
+  }
+  
+
+  
+
+  .Form1{
+    margin: 0px 0px 0px 40px;
+    
+  }
+
+  .dropbtn112 {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 0px;
+  }
+  
+  .dropbtn112 .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    
+  
+  }
+  .dropbtn112 {
+    background-color: transparent;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn112:hover{
+    color: #2980B9;
+  }
+  
+  .dropbtn112:focus {
+    background-color: transparent;
+    color:#2980B9;
+    border-bottom: 1px solid #2980B9;
+  }
+  
+  
+  .dropdown112 {
+    background-color: white;
+    color: #2980B9;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 0px;
+    
+  }
+  
+  .dropbtn112 .fa-angle-right{
+    padding: 0px 0px 0px 105px;
+    
+  
+  }
+  .dropbtn112 {
+    background-color: transparent;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown112 {
+    position: relative;
+    display: inline-block;
+    
+    
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content112 {
+    display: none;
+    position: absolute;
+    background-color: transparent;
+    min-width: 0px;
+    min-height: 0px;
+    z-index: 1;
+    margin: 0px 0px 0px 50px;
+    
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content112 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    
+
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content112 a:hover {background: none;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;} 
+  
+  
+  
+  
+  .dropbtn112 .fa-angle-right{
+    margin: 0px 0px 0px 30px;
+  }
+  
+  .SUVCar112{
+    margin: 0px 0px 0px 220px;
+    
+   
+  }
+  .TitleSuvCar a {
+    font-family: sans-serif;
+    font-size: 25px;
+    color:#2980B9;
+   
+  }
+  .TitleSuvCar a .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    font-size: 16px;
+  }
+  .Capable112{
+    margin: 0px 0px 0px 380px;
+  }
+  .convenientAndversatile112{
+    padding: 30px 300px;
+    background: #c4c4c438;
+    width: 250px;
+    margin: -285px 0px 0px 0px;
+  }
+  .convenientAndversatile112 h4{
+    margin: -10px 0px 0px -250px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+    width: 800px;
+  }
+  .highlight112 {
+    margin: 0px 0px 0px 20px;
+  }
+  .highlight112 a{
+    padding: 20px 0px 0px 0px;
+    display: inline-block;
+    width: 500px;
+    color: #2980B9;
+    font-size: 17px;
+    font-weight: 700;
+    font-family: sans-serif;
+  }
+  
+  .highlight112 a .fa-angle-right{
+   margin: -10px 0px 0px 10px;
+   font-size: 12px;
+  }
+  
+  .Maverick{
+    margin: 10px 0px 0px 0px;
+  }
+  
+  .imgMaverick img{
+    width: 200px;
+   
+  }
+  .titleMaverick{
+  margin: -5px 0px 0px 60px;
+  }
+  .titleMaverick h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .titleMaverick h4 .fa-registered{
+  
+    font-size: 13px;
+  }
+  .priceMaverick{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceMaverick h4{
+  font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  
+  .Ranger{
+  margin: -165px 0px 0px 220px;
+  }
+  
+  .imgRanger img{
+  width: 200px;
+  }
+  .titleRanger{
+  margin: -5px 0px 0px 60px;
+  }
+  .titleRanger h4{
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .titleRanger h4 .fa-registered{
+  
+  font-size: 13px;
+  }
+  .priceRanger{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceRanger h4{
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .F-150{
+  margin: -167px 0px 0px 440px;
+  }
+  
+  .imgF-150 img{
+  width: 200px;
+  }
+  .titleF-1501{
+  margin: -5px 0px 0px 45px;
+  }
+  .titleF-1501 h4{
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .titleF-150 span .fa-registered{
+  
+  font-size: 5px;
+  }
+  .priceF-150{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceF-150 h4{
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  
+  .SuperDuty{
+  margin: -167px 0px 0px 660px;
+  }
+  
+  .imgSuperDuty img{
+  width: 200px;
+  }
+  .titleSuperDuty{
+  margin: -5px 0px 0px 55px;
+  }
+  .titleSuperDuty h4{
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .titleSuperDuty span .fa-registered{
+  
+  font-size: 5px;
+  }
+  
+  
+  .priceSuperDuty{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceSuperDuty h4{
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .bar2{
+  margin: 60px 0px 0px 0px;
+  }
+  
+  .titleTransit{
+  margin: -5px 0px 0px 65px;
+  }
+  .titleTransit h4{
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .titleTransit span .fa-registered{
+  
+  font-size: 5px;
+  }
+  
+  .priceF-150Lighting{
+  margin: -15px 0px 0px 60px;
+  }
+  .priceF-150Lighting h4{
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  width: 400px;
+  }
+  
+  .GT3{
+    margin: -150px 0px 0px 220px;
+  }
+  
+  .imgEscape img{
+    width: 200px;
+  }
+  .titleEscape{
+  margin: -5px 0px 0px 60px;
+  }
+  .titleEscape h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .titleEscape h4 .fa-registered{
+  
+    font-size: 13px;
+  }
+  .priceEscape{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceEscape h4{
+  font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .FordMustangGT4{
+    margin: -150px 0px 0px 440px;
+  }
+  
+  .imgBronco img{
+    width: 200px;
+  }
+  .titleBronco{
+  margin: -5px 0px 0px 45px;
+  }
+  .titleBronco h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .titleBronco span .fa-registered{
+  
+    font-size: 5px;
+  }
+  .priceBronco{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceBronco h4{
+  font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+
+  
+
+
+
+  .dropbtn113 {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 0px;
+  }
+  
+  .dropbtn113 .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    
+  
+  }
+  .dropbtn113 {
+    background-color: transparent;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn113:hover{
+    color:#2980B9;
+  }
+  
+  
+  .dropbtn113:focus {
+    background-color: transparent;
+    color:#2980B9;
+    border-bottom: 1px solid #2980B9;
+  }
+  
+  
+  .dropdown113 {
+    background-color: white;
+    color: #2980B9;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 0px;
+    
+  }
+  
+  .dropbtn113 .fa-angle-right{
+    padding: 0px 0px 0px 150px;
+    
+  
+  }
+  .dropbtn113 {
+    background-color: transparent;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown113 {
+    position: relative;
+    display: inline-block;
+    
+    
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content113 {
+    display: none;
+    position: absolute;
+    background-color: transparent;
+    min-width: 0px;
+    min-height: 0px;
+    z-index: 1;
+    margin: 0px 0px 0px 50px;
+    
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content113 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    
+
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content113 a:hover {background: none;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;} 
+  
+  
+  
+  
+  .dropbtn113 .fa-angle-right{
+    margin: 0px 0px 0px 30px;
+  }
+  
+  .SUVCar113{
+    margin: 0px 0px 0px 220px;
+    
+   
+  }
+  .TitleSuvCar a {
+    font-family: sans-serif;
+    font-size: 25px;
+    color:#2980B9;
+   
+  }
+  .TitleSuvCar a .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    font-size: 16px;
+  }
+  .Capable113{
+    margin: 0px 0px 0px 380px;
+  }
+  .convenientAndversatile113{
+    padding: 30px 300px;
+    background: #c4c4c438;
+    width: 250px;
+    margin: -340px 0px 0px 0px;
+  }
+  .convenientAndversatile113 h4{
+    margin: -10px 0px 0px -250px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+    width: 800px;
+  }
+  .highlight113 {
+    margin: 0px 0px 0px 20px;
+  }
+  .highlight113 a{
+    padding: 20px 0px 0px 0px;
+    display: inline-block;
+    width: 500px;
+    color: #2980B9;
+    font-size: 17px;
+    font-weight: 700;
+    font-family: sans-serif;
+  }
+  
+  .highlight113 a .fa-angle-right{
+   margin: -10px 0px 0px 10px;
+   font-size: 12px;
+  }
+  
+  .Maverick{
+    margin: 10px 0px 0px 0px;
+  }
+  
+  .imgMaverick img{
+    width: 200px;
+   
+  }
+  .titleMaverick{
+  margin: -5px 0px 0px 60px;
+  }
+  .titleMaverick h4{
+  font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  .titleMaverick h4 .fa-registered{
+  
+    font-size: 13px;
+  }
+  .priceMaverick{
+  margin: -15px 0px 0px 45px;
+  }
+  .priceMaverick h4{
+  font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+    width: 400px;
+  }
+  
+  
+
+  
+
+  
+
+  .dropbtn114 {
+    background-color: white;
+    color:black;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 0px;
+  }
+  
+  .dropbtn114 .fa-angle-right{
+    padding: 0px 0px 0px 100px;
+    
+  
+  }
+  .dropbtn114 {
+    background-color: transparent;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn114:hover{
+    color:#2980B9;
+  }
+  
+  
+  .dropbtn114:focus {
+    background-color: transparent;
+    color:#2980B9;
+    border-bottom: 1px solid #2980B9;
+  }
+  .SUVCar114{
+    margin: 0px 0px 0px 220px;
+    
+   
+  }
+  
+  .dropdown114 {
+    background-color: white;
+    color: #2980B9;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0px 0px 0px;
+    
+  }
+  
+  .dropbtn114 .fa-angle-right{
+    padding: 0px 0px 0px 150px;
+    
+  
+  }
+  .dropbtn114 {
+    background-color: transparent;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown114 {
+    position: relative;
+    display: inline-block;
+    
+    
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content114 {
+    display: none;
+    position: absolute;
+    background-color: transparent;
+    min-width: 0px;
+    min-height: 0px;
+    z-index: 1;
+    margin: 0px 0px 0px 50px;
+    
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content114 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    
+
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content114 a:hover {background: none;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;} 
+  
+  
+
+  
+  .dropbtn114 .fa-angle-right{
+    margin: 0px 0px 0px 75px;
+  }
+
+  .Capable114{
+    margin: -410px 0px 0px 380px;
+  }
+
+  .FordBlueCruise{
+    background: #0068d0;
+    width: 200px;
+    height: 220px;
+    border-radius: 10px;
+  }
+  .FordBlueCruise:hover{
+    background: darkblue;
+    transition: all ease-in-out 0.5s;
+
+  }
+  .titleFordBlueCruise{
+    padding: 20px 0px 0px 30px;
+  }
+  .titleFordBlueCruise h4{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+  }
+
+  .SoftWareUpdate{
+    background: #0068d0;
+    width: 200px;
+    height: 220px;
+    border-radius: 10px;
+    margin: 15px 0px 0px 0px;
+    
+    
+  }
+
+  .SoftWareUpdate:hover{
+    background: rgb(16, 16, 163);
+    transition: all ease-in-out 0.5s;
+  }
+  .titleSoftWareUpdate{
+    padding: 20px 0px 0px 30px;
+  }
+  .titleSoftWareUpdate h4{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+  }
+  .RightSide{
+    margin: -455px 0px 0px 220px;
+  }
+.imgContainer{
+  margin: -450px 0px 0px 450px;
+  
+}
+  .imgContainering{
+    background: url(img/Women\ &\ Fuel.avif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 550px;
+    height: 450px;
+    border-radius: 20px;
+  }
+
+.ContainerElectroice{
+  width: 450px;
+  height: 80px;
+  background: #2e3130b2;
+  margin: -80px 0px 0px 0px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+.linkElectorices{
+  padding: 10px 0px 0px 20px;
+}
+.linkElectorices h4{
+  color: white;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+.linkElectorices h4 .fa-angle-right{
+  color: white;
+  font-size: 13px;
+  padding: 0px 0px 0px 10px;
+}
+
+
+
+.dropbtn20 {
+  background-color: transparent;
+  color: #979797;
+  font-weight:600 ;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin: 5px 0px 0px 0px;
+}
+
+
+/* Dropdown button on hover & focus */
+.dropbtn20:hover{
+  color: #2980B9;
+  font-weight:600 ;
+   border-bottom: 1px solid #2980B9;
+
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown20 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content20 {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 450px;
+  min-height: 650px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin: -5px 0px 0px -195px;
+  border-bottom-left-radius: 30px
+
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content20 a {
+  color: #061e2e;
+  padding: 50px 0px 0px 30px;
+  margin: 0px 0px -20px 0px;
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+  font-family: sans-serif;
+  
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content20 a:hover {background: none;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;} 
+
+
+.LastPart1{
+  margin:50px 0px 50px 0px;
+}
+.LastPart1 a{
+  font-size: 14px;
+}
+.logo {
+  margin: -70px 0px 0px 900px;
+}
+.logo img{
+  width: 120px;
+}
+
+.search{
+  margin: -55px 0px -15px 1500px;
+}
+
+
+.search .fa-magnifying-glass{
+  color: #061e2e;  
+}
+
+.dropbtn200 {
+  background-color: transparent;
+  color: #979797;
+  font-weight:600 ;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin: -800px 0px 0px 1550px;
+}
+
+
+
+
+
+.dropbtn200 .fa-user{
+  color: #2980B9;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn200:hover{
+  color: #2980B9;
+  font-weight:600 ;
+   border-bottom: 1px solid #2980B9;
+
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown200 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content200 {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 220px;
+  min-height: 280px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin: -5px 0px 0px 1380px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content200 a {
+  color: #061e2e;
+  padding: 60px 0px 0px 30px;
+  margin: 0px 0px -25px 0px;
+  text-decoration: none;
+  display: block;
+  font-family: sans-serif;
+  font-size: 18px;
+
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content200 a:hover {background: none;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;} 
+
+
+.global{
+  margin: -38px 0px 0px 0px;
+}
+.dropbtn2000 {
+  background-color: transparent;
+  color: #979797;
+  font-weight:600 ;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin: 0px 0px 0px 1600px;
+}
+
+
+
+
+
+.dropbtn2000 .fa-globe{
+  color: #2980B9;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn2000:hover{
+  color: #2980B9;
+  font-weight:600 ;
+   border-bottom: 1px solid #2980B9;
+
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown2000 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content2000 {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 220px;
+  min-height: 180px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin: -5px 0px 0px 1420px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content2000 a {
+  color: #061e2e;
+  padding: 60px 0px 0px 30px;
+  margin: 0px 0px -25px 0px;
+  text-decoration: none;
+  display: block;
+  font-family: sans-serif;
+  font-size: 18px;
+
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content2000 a:hover {background: none;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;} 
+
+.TruckHomeCover{
+  margin: 700px 0px 0px 300px;
+}
+
+.TitleTruckFord h4{
+  font-size: 25px;
+  color: white;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.HiglightTruckFord{
+  margin: -65px 0px 0px 0px;
+}
+.HiglightTruckFord h4{
+  font-size: 60px;
+  color: white;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+
+.HiglightTruckFord h4 sup{
+    font-size: 30px;
+    color: white;
+   
+  }
+.HiglightTruckFord span{
+color: #0068d0;
+}
+
+.PriceStarting{
+    margin: -55px 0px 0px 0px;
+  }
+  .PriceStarting h4{
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    font-family: sans-serif;
+  }
+  
+  .PriceStarting h4 sup{
+      font-size: 30px;
+      color: white;
+     
+    }
+  .PriceStarting span{
+  color: #0068d0;
+  }
+  
+
+.detail1 a{
+  color: white;
+  font-family: sans-serif;
+  font-size: 12px;
+  margin: 50px 0px 0px 0px;
+}
+.ButtonTruckFord{
+    margin: 30px 0px 0px 0px;
+  }
+  .ButtonTruckFord button{
+    padding: 10px 18px;
+    border-radius: 30px;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: sans-serif;
+    background: white;
+    color: black;
+  }
+  
+
+  .ClickUp button{
+    padding:15px 18px;
+    border-radius: 50px;
+    border: none;
+    background: #061e2e65;
+    color: white;
+    font-size: 20px;
+    position: fixed;
+    margin: -10px 0px 0px 0px;
+    left: 1800px;
+    transition: 1s all ease;
+}
+
+.ContainerCenter{
+    margin: 30px 0px 0px 300px;
+   
+}
+.list{
+    margin: 0px 0px 0px 0px;
+  
+    
+}
+
+.Number h4{
+    color:#0068d0;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.HR101{
+    margin: -45px 0px 0px -1480px;
+}
+.HR101 hr{
+    width: 0px;
+    height: 20px;
+}
+
+.ListContainer{
+    margin: 0px 0px 0px 0px;
+ 
+}
+
+.ListContainer a{
+    padding: 0px 10px 0px 0px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(66, 66, 66);   
+    font-weight: 600;
+    
+    
+}
+
+
+.ListContainer  a:hover{
+text-decoration: underline;
+
+
+}
+.buttonSearch{
+  margin: -30px 0px 0px 1200px;
+}
+
+.buttonSearch button{
+  padding: 10px 15px;
+  background: #0068d0;
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;
+  border: none;
+  border-radius: 50px;   
+}
+
+.DiscoverTheHighlight{
+  margin: 80px 0px 0px 300px;
+}
+
+.titleDiscoverTheHighlight h4{
+  font-family: sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  color: black;
+}
+.DetailDiscoverTheHiglight {
+  margin: -50px 0px 0px 0px;
+}
+.DetailDiscoverTheHiglight h4{
+  font-size: 13px;
+  font-family: sans-serif;
+
+}
+
+.HrLine hr{
+  width: 0px;
+  height: 110px;
+  display: inline-block;
+  color: rgba(116, 116, 116, 0.288);
+}
+.EcoBoost{
+  margin: 50px 0px 0px 0px;
+}
+.TitleEcoBoost h4{
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: rgb(116, 116, 116);
+}
+
+.TitleEcoBoost{
+  margin: -110px 0px 0px 30px;
+}
+
+
+.PriceEcoBoost h4{
+  font-family: sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  color: black;
+}
+
+.PriceEcoBoost{
+  margin: -40px 0px 0px 30px;
+}
+
+.HrLine hr{
+  width: 0px;
+  height: 110px;
+  display: inline-block;
+  color: rgba(116, 116, 116, 0.288);
+}
+.Horsepower{
+  margin: -153px 0px 0px 450px;
+}
+.TitleHorsepower h4{
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: rgb(116, 116, 116);
+}
+
+.TitleHorsepower{
+  margin: -110px 0px 0px 30px;
+}
+
+
+.PriceHorsepower h4{
+  font-family: sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  color: black;
+}
+
+.PriceHorsepower{
+  margin: -40px 0px 0px 30px;
+}
+
+
+.HrLine hr{
+  width: 0px;
+  height: 110px;
+  display: inline-block;
+  color: rgba(116, 116, 116, 0.288);
+}
+.Seating{
+  margin: -153px 0px 0px 850px;
+}
+.TitleSeating h4{
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: rgb(116, 116, 116);
+}
+
+.TitleSeating{
+  margin: -110px 0px 0px 30px;
+}
+
+
+.PriceSeating h4{
+  font-variant-numeric: slashed-zero;
+      font-size: 35px;
+  font-weight: 600;
+  color: black;
+}
+
+.PriceSeating{
+  margin: -40px 0px 0px 30px;
+}
+
+.Gallary{
+  margin: 40px 0px 0px 300px;
+  background: black;
+  width: 1250px;
+  height: 550px;
+  overflow-y: scroll;
+}
+
+.Img1Container{
+  background-image: url(img/Video2025/hero-Ford\ Mustang\ RTR_18.webp);
+  width: 1250px;
+  height: 550px;
+  background-size: cover;
+}
