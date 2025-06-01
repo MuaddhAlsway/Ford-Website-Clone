@@ -128,11 +128,20 @@ Ford-Website-Clone/
 
   💾 Save preferences with localStorage
 
-## 🧑‍💻 Author
+## 🔗 Link Post :
 
-Muaddh Alsway
-🔗 GitHub Profile
+  <a href="https://www.linkedin.com/posts/muaddh-alsway_frontenddevelopment-webdevelopment-htmlcssjavascript-activity-7334953265102499843-Ur4P?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 
 ## 📄 License
 
 This project is free to use for personal learning and portfolio building.
+
+## 🧑‍💻 Contact Me
+  <a href="https://www.linkedin.com/in/muaddh-alsway/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/MuaddhAlsway" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
